@@ -1,0 +1,26 @@
+[
+    {
+      "url" : "./project-icons/chess-icon.png",
+      "title" : "Chess"
+    },
+    {
+      "url" : "./project-icons/shop-icon.png",
+      "title" : "Shop"
+    },
+    {
+      "url" : "./project-icons/news-icon.png",
+      "title" : "News"
+    },
+    {
+      "url" : "./project-icons/restapi-icon.png",
+      "title" : "Rest API"
+    },
+    {
+      "url" : "./project-icons/todo-icon.png",
+      "title" : "Todo"
+    },
+    {
+      "url" : "./project-icons/card-icon.png",
+      "title" : "Card"
+    }
+  ]

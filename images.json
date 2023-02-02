@@ -1,0 +1,26 @@
+[
+  {
+    "url" : "./images-thumbnail/image-1.jpg",
+    "alt" : "Mountains at dusk"
+  },
+  {
+    "url" : "./images-thumbnail/image-2.jpg",
+    "alt" : "Mountain lake at sunset"
+  },
+  {
+    "url" : "./images-thumbnail/image-3.jpg",
+    "alt" : "River through the mountains"
+  },
+  {
+    "url" : "./images-thumbnail/image-4.jpg",
+    "alt" : "Mountain peak"
+  },
+  {
+    "url" : "./images-thumbnail/image-5.jpg",
+    "alt" : "Snowy mountain peak in fog"
+  },
+  {
+    "url" : "./images-thumbnail/image-6.jpg",
+    "alt" : "Mountain peaks in fog"
+  }
+]

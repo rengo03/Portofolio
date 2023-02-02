@@ -1,0 +1,50 @@
+/* RESET DEFAULT CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* font-family: 'Outfit', sans-serif;
+    font-family: 'Kalam', cursive; */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: inherit;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --almond: #dac9ba;
+    --blue: #136d8b;
+    --dark: #2a2a2a;
+    --gray: #9ca8ac;
+    --white: #ffffff;
+    --whiteish: #d9d9d9;
+
+    --slide-progress: 35%;
+    --slide-progress--transition: all 200ms cubic-bezier(0.82, 0.02, 0.39, 1.01);
+}
